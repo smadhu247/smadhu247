@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Sanjana 👋
 
-My name is Sanjana!
+Welcome to my GitHub profile
 
 <!--
 **smadhu247/smadhu247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
